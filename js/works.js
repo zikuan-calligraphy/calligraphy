@@ -29,7 +29,7 @@ window.WORKS = [
     text: "",
     versions: [
       { type: "original", label: "原稿", file: "zhu-tingyu-original.jpg" },
-      { type: "carved", label: "木刻作品", file: "zhu-tingyu-wood.jpg" }
+      { type: "carved", label: "木刻示意", file: "zhu-tingyu-wood.jpg" }
     ]
   },
   {
@@ -38,7 +38,7 @@ window.WORKS = [
     style: "行書",
     text: "昨夜星辰昨夜風,畫樓西畔桂堂東。身無彩鳳雙飛翼,心有靈犀一點通。隔座送鉤春酒暖,分曹射覆蠟燈紅。嗟余聽鼓應官去,走馬蘭臺類轉蓬。",
     versions: [
-      { type: "carved", label: "木刻作品", file: "li-shangyin-wood.jpg" }
+      { type: "carved", label: "木刻示意", file: "li-shangyin-wood.jpg" }
     ]
   },
   {
@@ -47,7 +47,7 @@ window.WORKS = [
     style: "行書",
     text: "從靜中觀物動,向閒處看人忙,才得超塵脫俗的趣味;遇忙處會偷閒,處閒中能取靜,便是安身立命的工夫。",
     versions: [
-      { type: "mounted", label: "掛軸裝裱", file: "caigentan-scroll.jpg" }
+      { type: "mounted", label: "掛軸示意", file: "caigentan-scroll.jpg" }
     ]
   },
   {
